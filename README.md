@@ -3,7 +3,8 @@
 - 🇪🇸 Spanish
 - 📚 Programming and Computer Science student at Epitech and 42
 - ⚜️ Scout (GSJarama 667)
-- ⚽ Not a sports fan
+- 📏 201cm
+- 🏀 I dont play basketball
 - 🎮 Willing to fight over NFS2015, Destiny, Satisfactory and Helldivers 2
 
 ## :gear: *Favourite technologies*
